@@ -1,0 +1,26 @@
+# Archivos de C (Ejecutables y Objetos)
+*.o
+*.out
+*.so
+*.exe
+*.app
+ring
+
+# Archivos de Java (Compilados)
+*.class
+*.jar
+*.war
+
+# Carpetas de IDEs y Editores
+.vscode/
+.idea/
+*.iml
+
+# Archivos del Sistema Operativo
+.DS_Store
+Thumbs.db
+
+# Ficheros temporales y directorios de pruebas
+*.tgz
+/practica-1-c/src/dir*
+/practica-1-c/src/tmp*
