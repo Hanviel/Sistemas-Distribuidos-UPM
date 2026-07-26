@@ -17,11 +17,12 @@ Repositorio que reúne las prácticas de laboratorio de la asignatura **Sistemas
 
 ```text
 .
+.
 ├── .gitignore               # Exclusión de binarios (.o, .class, ejecutables, etc.)
 ├── README.md                # Visión general del repositorio
 ├── practica-1-c/            # Práctica 1: Aplicación P2P RING (C)
 │   ├── README.md            # Enunciado resumido y manual de uso de P1
-│   ├── Makefile             # Scripts de compilación
+│   ├── ejemplos/            # Ejemplos de apoyo (sockets, mmap, sendfile)
 │   └── src/                 # Código fuente (.c y .h)
 └── practica-2-java/         # Práctica 2: Sistema PubSub (Java RMI)
     ├── README.md            # Enunciado resumido y manual de uso de P2
